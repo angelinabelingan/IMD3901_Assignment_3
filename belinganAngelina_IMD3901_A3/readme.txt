@@ -7,4 +7,4 @@ I had trouble getting the button colours to change. For some reason when changin
 A part of the assignment that went well was setting up the layout of the game. I enjoyed creating walls for the user to go around in order to search for the buttons. Since all the walls were the same colour, it was difficult to set them up without them overlapping. To solve this, I started by changing every wall to a different colour and moving them accordingly. 
 
 
-GitHub URL: https://github.com/angelinabelingan/IMD3901_Assignment_3
+GitHub URL: https://github.com/angelinabelingan/belinganAngelina_IMD3901_A3
